@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f12dcf86-b5a7-410a-bbd9-374830c46439" name="Changes" comment="solve conflict">
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 =======
 >>>>>>> parent of 95861dd (Revert "v2.0 test")
+=======
+    <list default="true" id="f12dcf86-b5a7-410a-bbd9-374830c46439" name="Changes" comment="IntelliJ Git Test - new branch">
+>>>>>>> ver10
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +38,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ver10
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+<<<<<<< HEAD
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
 =======
   <component name="PropertiesComponent"><![CDATA[{
@@ -47,6 +55,10 @@
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm"
 >>>>>>> parent of 95861dd (Revert "v2.0 test")
+=======
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+>>>>>>> ver10
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
