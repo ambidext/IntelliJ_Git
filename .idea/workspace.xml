@@ -1,91 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="f12dcf86-b5a7-410a-bbd9-374830c46439" name="Changes" comment="solve conflict">
-<<<<<<< HEAD
+    <list default="true" id="c9f72416-203d-48de-adc0-a9e9749d8dd9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
->>>>>>> parent of 95861dd (Revert "v2.0 test")
-=======
-    <list default="true" id="f12dcf86-b5a7-410a-bbd9-374830c46439" name="Changes" comment="IntelliJ Git Test - new branch">
->>>>>>> ver10
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="branch01" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="branch01" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GCcMVFhzn4l9FcDA69lr7ctvKB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ver10
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-<<<<<<< HEAD
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
-=======
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
->>>>>>> parent of 95861dd (Revert "v2.0 test")
-=======
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
->>>>>>> ver10
-  }
-}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c6ff7a89-07fe-4d95-9c1c-8b88311fdee4" name="Changes" comment="" />
-      <created>1665895963847</created>
+      <changelist id="c9f72416-203d-48de-adc0-a9e9749d8dd9" name="Changes" comment="" />
+      <created>1743837282616</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665895963847</updated>
-      <workItem from="1665895970829" duration="1252000" />
+      <updated>1743837282616</updated>
+      <workItem from="1743837283990" duration="394000" />
     </task>
-    <task id="LOCAL-00001" summary="IntelliJ Git Test">
-      <created>1665896333481</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1665896333481</updated>
-    </task>
-    <task id="LOCAL-00002" summary="IntelliJ Git Test - new branch">
-      <created>1665909342742</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1665909342742</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,10 +42,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="IntelliJ Git Test" />
-    <MESSAGE value="IntelliJ Git Test - new branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ Git Test - new branch" />
   </component>
 </project>
